@@ -1,5 +1,5 @@
 ## CodersLab
-##Workshop - Week 1
+#Workshop - Week 1
 
 In this first Workshop I was using Java basic functions (such as loops, if...else, etc.)
 
