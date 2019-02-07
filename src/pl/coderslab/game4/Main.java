@@ -6,7 +6,6 @@ import pl.coderslab.Services.Services;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("");
         String userChoice = Services.getString("What's Your dice choice?: ", "Try again");
         dataAnalise(userChoice);
 
